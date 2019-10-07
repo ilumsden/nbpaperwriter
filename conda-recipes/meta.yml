@@ -1,0 +1,27 @@
+{% set version = "0.1.0a" %}
+
+package:
+  name: nbpaperwriter
+  version: {{version}}
+
+source:
+  # url:
+  # sha256:
+
+build:
+  # noarch:
+  # number:
+  # script:
+
+requirements:
+  # host:
+  # run:
+  
+test:
+  # imports
+
+about:
+  home: https://github.com/ilumsden/nbpaperwriter
+  license: MIT
+  summary: "A tool to write interactive scientific papers as Jupyter notebooks and convert them to LaTeX files"
+  dev_url: https://github.com/ilumsden/nbpaperwriter
